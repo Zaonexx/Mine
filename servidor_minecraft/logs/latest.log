@@ -1,0 +1,770 @@
+[00:00:01] [Server thread/WARN]: Server seems overloading, jumping 2871ms or 57 ticks
+[00:00:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2294ms or 45 ticks behind
+[00:00:06] [Server thread/INFO]: Received complete skin texture from player: ZaoNexx (size: 3681 bytes)
+[00:00:06] [Server thread/INFO]: Player ZaoNexx updated appearance: skin=local_skin:29379ff07389d569d5b9e05fda89def68b62e621, cape=, model=classic
+[00:00:06] [Server thread/INFO]: Received complete skin texture from player: ZaoNexx (size: 3681 bytes)
+[00:00:06] [Server thread/INFO]: Player ZaoNexx updated appearance: skin=local_skin:29379ff07389d569d5b9e05fda89def68b62e621, cape=known:minecon_2011, model=classic
+[00:00:06] [Server thread/INFO]: [voicechat] Received secret request of ZaoNexx (20)
+[00:00:06] [Server thread/INFO]: [voicechat] Sent secret to ZaoNexx
+[00:00:06] [Server thread/INFO]: Received complete skin texture from player: ZaoNexx (size: 3681 bytes)
+[00:00:06] [Server thread/INFO]: Player ZaoNexx updated appearance: skin=local_skin:29379ff07389d569d5b9e05fda89def68b62e621, cape=known:minecon_2011, model=classic
+[00:00:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player 863cae13-749f-3176-a7e0-44ae52f4dd6f
+[00:00:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player 863cae13-749f-3176-a7e0-44ae52f4dd6f
+[00:00:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player ZaoNexx (863cae13-749f-3176-a7e0-44ae52f4dd6f) successfully connected to voice chat
+[00:00:14] [Server thread/INFO]: [Not Secure] <ZaoNexx> 1337Dg
+[00:00:23] [Server thread/WARN]: Server seems overloading, jumping 2110ms or 42 ticks
+[00:00:23] [Server thread/INFO]: invalid box dim 2 ResourceKey[minecraft:dimension / minecraft:overworld] null
+[00:00:23] [Server thread/INFO]: destroy scale box 2
+[00:00:27] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[00:00:53] [Worker-Main-1/WARN]: Empty height range: [6 above bottom--1 absolute]
+[00:01:11] [Server thread/WARN]: Server seems overloading, jumping 2135ms or 42 ticks
+[00:01:23] [Server thread/INFO]: class_3222['ZaoNexx'/452, l='ServerWorld minecraft:overworld world', x=-214.68, y=63.69, z=1487.18]is teleporting frequently
+[00:01:45] [Server thread/WARN]: Server seems overloading, jumping 2175ms or 43 ticks
+[00:01:45] [Netty Epoll Server IO #6/INFO]: Received refresh request for files of hashes: [42e40ddfbac64a9fa32f9dcc653fb34ac74954f0]
+[00:01:45] [AutoModpackCreation-4/INFO]: Removed content for /mods/voicechat-fabric-1.20.1-2.6.6.jar
+[00:01:45] [AutoModpackCreation-4/INFO]: generated content for /mods/voicechat-fabric-1.20.1-2.6.6.jar
+[00:01:45] [Netty Epoll Server IO #6/INFO]: Sending new modpack-content.json
+[00:02:04] [Server thread/WARN]: Server seems overloading, jumping 2174ms or 43 ticks
+[00:02:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2139ms or 42 ticks behind
+[00:02:07] [Server thread/ERROR]: Trying to teleport an entity that is already removed class_1541['Primed TNT'/1419, l='ServerWorld mini_scaled:void world', x=1018.95, y=64.00, z=0.90, removed=DISCARDED] MiniScaledPortal{830,east,(mini_scaled:void 1024.0 80.0 16.0)->(minecraft:overworld -214.0 64.5 1487.5),scale:0.03125,mini_scaled:scaled_box}
+[00:02:07] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/1434, l='ServerWorld mini_scaled:void world', x=1018.95, y=64.00, z=0.90]MiniScaledPortal{830,east,(mini_scaled:void 1024.0 80.0 16.0)->(minecraft:overworld -214.0 64.5 1487.5),scale:0.03125,mini_scaled:scaled_box}
+[00:02:07] [Server thread/INFO]: Server performance level: bad
+[00:02:08] [Server thread/ERROR]: Trying to teleport an entity that is already removed class_1541['Primed TNT'/1418, l='ServerWorld mini_scaled:void world', x=1020.70, y=67.05, z=1.28, removed=DISCARDED] MiniScaledPortal{830,east,(mini_scaled:void 1024.0 80.0 16.0)->(minecraft:overworld -214.0 64.5 1487.5),scale:0.03125,mini_scaled:scaled_box}
+[00:02:08] [Server thread/ERROR]: Trying to teleport an entity that is already removed class_1541['Primed TNT'/1561, l='ServerWorld mini_scaled:void world', x=1019.77, y=72.41, z=1.08, removed=DISCARDED] MiniScaledPortal{830,east,(mini_scaled:void 1024.0 80.0 16.0)->(minecraft:overworld -214.0 64.5 1487.5),scale:0.03125,mini_scaled:scaled_box}
+[00:02:08] [Server thread/INFO]: portal linking break MiniScaledPortal{830,east,(mini_scaled:void 1024.0 80.0 16.0)->(minecraft:overworld -214.0 64.5 1487.5),scale:0.03125,mini_scaled:scaled_box}
+[00:02:08] [Server thread/INFO]: portal linking break MiniScaledPortal{820,up,(mini_scaled:void 1040.0 64.0 16.0)->(minecraft:overworld -214.5 64.0 1487.5),scale:0.03125,mini_scaled:scaled_box}
+[00:02:08] [Server thread/INFO]: portal linking break MiniScaledPortal{822,down,(mini_scaled:void 1040.0 96.0 16.0)->(minecraft:overworld -214.5 65.0 1487.5),scale:0.03125,mini_scaled:scaled_box}
+[00:02:08] [Server thread/INFO]: portal linking break MiniScaledPortal{826,south,(mini_scaled:void 1040.0 80.0 0.0)->(minecraft:overworld -214.5 64.5 1488.0),scale:0.03125,mini_scaled:scaled_box}
+[00:02:08] [Server thread/INFO]: portal linking break MiniScaledPortal{828,west,(mini_scaled:void 1056.0 80.0 16.0)->(minecraft:overworld -215.0 64.5 1487.5),scale:0.03125,mini_scaled:scaled_box}
+[00:02:08] [Server thread/INFO]: portal linking break MiniScaledPortal{824,north,(mini_scaled:void 1040.0 80.0 32.0)->(minecraft:overworld -214.5 64.5 1487.0),scale:0.03125,mini_scaled:scaled_box}
+[00:02:09] [Server thread/ERROR]: Trying to teleport an entity that is already removed class_1541['Primed TNT'/1365, l='ServerWorld mini_scaled:void world', x=1029.65, y=57.98, z=3.24, removed=DISCARDED] MiniScaledPortal{820,up,(mini_scaled:void 1040.0 64.0 16.0)->(minecraft:overworld -214.5 64.0 1487.5),scale:0.03125,mini_scaled:scaled_box}
+[00:02:09] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/1494, l='ServerWorld mini_scaled:void world', x=1030.11, y=58.43, z=3.34]MiniScaledPortal{820,up,(mini_scaled:void 1040.0 64.0 16.0)->(minecraft:overworld -214.5 64.0 1487.5),scale:0.03125,mini_scaled:scaled_box}
+[00:02:09] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/1652, l='ServerWorld mini_scaled:void world', x=1030.11, y=58.43, z=3.34]MiniScaledPortal{820,up,(mini_scaled:void 1040.0 64.0 16.0)->(minecraft:overworld -214.5 64.0 1487.5),scale:0.03125,mini_scaled:scaled_box}
+[00:02:09] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/1754, l='ServerWorld mini_scaled:void world', x=1032.74, y=58.27, z=4.12]MiniScaledPortal{820,up,(mini_scaled:void 1040.0 64.0 16.0)->(minecraft:overworld -214.5 64.0 1487.5),scale:0.03125,mini_scaled:scaled_box}
+[00:02:09] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/1799, l='ServerWorld mini_scaled:void world', x=1032.38, y=57.65, z=3.92]MiniScaledPortal{820,up,(mini_scaled:void 1040.0 64.0 16.0)->(minecraft:overworld -214.5 64.0 1487.5),scale:0.03125,mini_scaled:scaled_box}
+[00:02:09] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/1818, l='ServerWorld mini_scaled:void world', x=1032.38, y=57.65, z=3.92]MiniScaledPortal{820,up,(mini_scaled:void 1040.0 64.0 16.0)->(minecraft:overworld -214.5 64.0 1487.5),scale:0.03125,mini_scaled:scaled_box}
+[00:02:17] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/6246, l='ServerWorld mini_scaled:void world', x=1023.91, y=54.68, z=4.10]MiniScaledPortal{5794,up,(mini_scaled:void 1040.0 64.0 16.0)->(mini_scaled:void 1040.0 -936.0 16.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:17] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/6249, l='ServerWorld mini_scaled:void world', x=1023.91, y=54.68, z=4.10]MiniScaledPortal{5794,up,(mini_scaled:void 1040.0 64.0 16.0)->(mini_scaled:void 1040.0 -936.0 16.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:17] [Server thread/ERROR]: Trying to teleport an entity that is already removed class_1541['Primed TNT'/5929, l='ServerWorld mini_scaled:void world', x=1023.92, y=85.70, z=19.76, removed=DISCARDED] MiniScaledPortal{5798,east,(mini_scaled:void 1024.0 80.0 16.0)->(mini_scaled:void 1024.0 -920.0 16.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:18] [Server thread/ERROR]: Trying to teleport an entity that is already removed class_1541['Primed TNT'/5871, l='ServerWorld mini_scaled:void world', x=1024.06, y=81.89, z=35.25, removed=DISCARDED] MiniScaledPortal{5797,north,(mini_scaled:void 1040.0 80.0 32.0)->(mini_scaled:void 1040.0 -920.0 32.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:18] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/6010, l='ServerWorld mini_scaled:void world', x=1028.01, y=81.47, z=37.46]MiniScaledPortal{5797,north,(mini_scaled:void 1040.0 80.0 32.0)->(mini_scaled:void 1040.0 -920.0 32.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:19] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/5993, l='ServerWorld mini_scaled:void world', x=1045.14, y=77.89, z=37.01]MiniScaledPortal{5797,north,(mini_scaled:void 1040.0 80.0 32.0)->(mini_scaled:void 1040.0 -920.0 32.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:19] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/6426, l='ServerWorld mini_scaled:void world', x=1040.60, y=61.91, z=37.03]MiniScaledPortal{5797,north,(mini_scaled:void 1040.0 80.0 32.0)->(mini_scaled:void 1040.0 -920.0 32.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:19] [Server thread/ERROR]: Trying to teleport an entity that is already removed class_1541['Primed TNT'/5987, l='ServerWorld mini_scaled:void world', x=1050.78, y=76.55, z=34.65, removed=DISCARDED] MiniScaledPortal{5797,north,(mini_scaled:void 1040.0 80.0 32.0)->(mini_scaled:void 1040.0 -920.0 32.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:19] [Server thread/ERROR]: Trying to teleport an entity that is already removed class_1541['Primed TNT'/6391, l='ServerWorld mini_scaled:void world', x=1022.39, y=74.83, z=3.65, removed=DISCARDED] MiniScaledPortal{5798,east,(mini_scaled:void 1024.0 80.0 16.0)->(mini_scaled:void 1024.0 -920.0 16.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:20] [Server thread/ERROR]: Trying to teleport an entity that is already removed class_1541['Primed TNT'/5936, l='ServerWorld mini_scaled:void world', x=1030.60, y=97.93, z=31.40, removed=DISCARDED] MiniScaledPortal{5795,down,(mini_scaled:void 1040.0 96.0 16.0)->(mini_scaled:void 1040.0 -904.0 16.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:20] [Server thread/WARN]: Server seems overloading, jumping 2209ms or 44 ticks
+[00:02:20] [Server thread/ERROR]: Trying to teleport an entity that is already removed class_1541['Primed TNT'/6078, l='ServerWorld mini_scaled:void world', x=1029.38, y=70.39, z=34.41, removed=DISCARDED] MiniScaledPortal{5797,north,(mini_scaled:void 1040.0 80.0 32.0)->(mini_scaled:void 1040.0 -920.0 32.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:20] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/7265, l='ServerWorld mini_scaled:void world', x=1019.90, y=63.89, z=-5.86]MiniScaledPortal{5796,south,(mini_scaled:void 1040.0 80.0 0.0)->(mini_scaled:void 1040.0 -920.0 0.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:20] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/5894, l='ServerWorld mini_scaled:void world', x=1021.31, y=63.65, z=-5.48]MiniScaledPortal{5796,south,(mini_scaled:void 1040.0 80.0 0.0)->(mini_scaled:void 1040.0 -920.0 0.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:20] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/5925, l='ServerWorld mini_scaled:void world', x=1021.31, y=63.65, z=-5.48]MiniScaledPortal{5796,south,(mini_scaled:void 1040.0 80.0 0.0)->(mini_scaled:void 1040.0 -920.0 0.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:20] [Server thread/ERROR]: Trying to teleport an entity that is already removed class_1541['Primed TNT'/6000, l='ServerWorld mini_scaled:void world', x=1021.31, y=63.65, z=-5.48, removed=DISCARDED] MiniScaledPortal{5796,south,(mini_scaled:void 1040.0 80.0 0.0)->(mini_scaled:void 1040.0 -920.0 0.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:20] [Server thread/ERROR]: Trying to teleport an entity that is already removed class_1541['Primed TNT'/7312, l='ServerWorld mini_scaled:void world', x=1026.52, y=96.78, z=23.78, removed=DISCARDED] MiniScaledPortal{5795,down,(mini_scaled:void 1040.0 96.0 16.0)->(mini_scaled:void 1040.0 -904.0 16.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:21] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/5910, l='ServerWorld mini_scaled:void world', x=1024.97, y=65.91, z=-8.12]MiniScaledPortal{5796,south,(mini_scaled:void 1040.0 80.0 0.0)->(mini_scaled:void 1040.0 -920.0 0.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:21] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/6019, l='ServerWorld mini_scaled:void world', x=1024.97, y=65.91, z=-8.12]MiniScaledPortal{5796,south,(mini_scaled:void 1040.0 80.0 0.0)->(mini_scaled:void 1040.0 -920.0 0.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:21] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/6021, l='ServerWorld mini_scaled:void world', x=1024.97, y=65.91, z=-8.12]MiniScaledPortal{5796,south,(mini_scaled:void 1040.0 80.0 0.0)->(mini_scaled:void 1040.0 -920.0 0.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:21] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/6028, l='ServerWorld mini_scaled:void world', x=1024.97, y=65.91, z=-8.12]MiniScaledPortal{5796,south,(mini_scaled:void 1040.0 80.0 0.0)->(mini_scaled:void 1040.0 -920.0 0.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:21] [Server thread/ERROR]: Trying to teleport an entity that is already removed class_1541['Primed TNT'/6043, l='ServerWorld mini_scaled:void world', x=1024.97, y=65.91, z=-8.12, removed=DISCARDED] MiniScaledPortal{5796,south,(mini_scaled:void 1040.0 80.0 0.0)->(mini_scaled:void 1040.0 -920.0 0.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:21] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/6050, l='ServerWorld mini_scaled:void world', x=1025.01, y=65.93, z=-7.85]MiniScaledPortal{5796,south,(mini_scaled:void 1040.0 80.0 0.0)->(mini_scaled:void 1040.0 -920.0 0.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:21] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/6058, l='ServerWorld mini_scaled:void world', x=1025.01, y=65.93, z=-7.85]MiniScaledPortal{5796,south,(mini_scaled:void 1040.0 80.0 0.0)->(mini_scaled:void 1040.0 -920.0 0.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:21] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/6247, l='ServerWorld mini_scaled:void world', x=1025.10, y=66.39, z=-6.39]MiniScaledPortal{5796,south,(mini_scaled:void 1040.0 80.0 0.0)->(mini_scaled:void 1040.0 -920.0 0.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:21] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/6449, l='ServerWorld mini_scaled:void world', x=1025.15, y=64.06, z=-5.85]MiniScaledPortal{5796,south,(mini_scaled:void 1040.0 80.0 0.0)->(mini_scaled:void 1040.0 -920.0 0.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:21] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/7027, l='ServerWorld mini_scaled:void world', x=1025.15, y=64.06, z=-5.85]MiniScaledPortal{5796,south,(mini_scaled:void 1040.0 80.0 0.0)->(mini_scaled:void 1040.0 -920.0 0.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:21] [Server thread/ERROR]: Trying to teleport an entity that is already removed class_1541['Primed TNT'/7301, l='ServerWorld mini_scaled:void world', x=1045.61, y=96.40, z=0.56, removed=DISCARDED] MiniScaledPortal{5795,down,(mini_scaled:void 1040.0 96.0 16.0)->(mini_scaled:void 1040.0 -904.0 16.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:21] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/5889, l='ServerWorld mini_scaled:void world', x=1026.47, y=57.43, z=2.91]MiniScaledPortal{5794,up,(mini_scaled:void 1040.0 64.0 16.0)->(mini_scaled:void 1040.0 -936.0 16.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:21] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/6081, l='ServerWorld mini_scaled:void world', x=1025.88, y=57.85, z=-0.56]MiniScaledPortal{5794,up,(mini_scaled:void 1040.0 64.0 16.0)->(mini_scaled:void 1040.0 -936.0 16.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:21] [Server thread/ERROR]: Trying to teleport an entity that is already removed class_1541['Primed TNT'/6379, l='ServerWorld mini_scaled:void world', x=1028.41, y=61.23, z=12.55, removed=DISCARDED] MiniScaledPortal{5794,up,(mini_scaled:void 1040.0 64.0 16.0)->(mini_scaled:void 1040.0 -936.0 16.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:21] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/7380, l='ServerWorld mini_scaled:void world', x=1025.08, y=58.66, z=-4.29]MiniScaledPortal{5794,up,(mini_scaled:void 1040.0 64.0 16.0)->(mini_scaled:void 1040.0 -936.0 16.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:21] [Server thread/ERROR]: Entity is too far to teleport class_1541['Primed TNT'/6234, l='ServerWorld mini_scaled:void world', x=1025.57, y=59.26, z=-2.62]MiniScaledPortal{5794,up,(mini_scaled:void 1040.0 64.0 16.0)->(mini_scaled:void 1040.0 -936.0 16.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:22] [Server thread/ERROR]: Trying to teleport an entity that is already removed class_1541['Primed TNT'/7298, l='ServerWorld mini_scaled:void world', x=1026.12, y=61.89, z=3.21, removed=DISCARDED] MiniScaledPortal{5794,up,(mini_scaled:void 1040.0 64.0 16.0)->(mini_scaled:void 1040.0 -936.0 16.0),mini_scaled:scaled_box_inner_wrapping}
+[00:02:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2285ms or 45 ticks behind
+[00:02:27] [Server thread/INFO]: Server performance level: good
+[00:09:50] [Server thread/INFO]: Manu304 has installed AutoModpack.
+[00:09:50] [Server thread/INFO]: Sending Manu304 modpack host address: :-1
+[00:09:51] [Server thread/INFO]: [ZaoNexx: Set the weather to clear]
+[00:09:52] [Server thread/INFO]: Manu304 has installed whole modpack
+[00:09:52] [Server thread/INFO]: [Handshake] Sending channel query
+[00:09:53] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[00:09:53] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[00:09:53] [Server thread/INFO]: Manu304[/127.245.42.148:57503] logged in with entity id 7951 at (-213.91498281575227, 65.0, 1477.619929432958)
+[00:09:53] [Server thread/INFO]: Sending server config values to client
+[00:09:53] [Server thread/INFO]: Manu304 joined the game
+[00:09:53] [Server thread/INFO]: Player joined: Manu304
+[00:09:53] [Server thread/INFO]: Loaded appearance for player: e67aaebe-1d83-3d38-ad83-6a72c4948f7e (skin=local_skin:46e558643b0e0429709b92ed883afbdd5e46d2d7, cape=known:home, model=classic)
+[00:09:53] [Server thread/WARN]: Server seems overloading, jumping 2095ms or 41 ticks
+[00:09:53] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[00:09:53] [Server thread/INFO]: Player ZaoNexx requested skin texture: 46e558643b0e0429709b92ed883afbdd5e46d2d7
+[00:09:55] [Server thread/INFO]: Received complete skin texture from player: Manu304 (size: 2618 bytes)
+[00:09:55] [Server thread/INFO]: Player Manu304 updated appearance: skin=local_skin:46e558643b0e0429709b92ed883afbdd5e46d2d7, cape=, model=classic
+[00:09:55] [Server thread/INFO]: Received complete skin texture from player: Manu304 (size: 2618 bytes)
+[00:09:55] [Server thread/INFO]: Player Manu304 updated appearance: skin=local_skin:46e558643b0e0429709b92ed883afbdd5e46d2d7, cape=known:home, model=classic
+[00:09:55] [Server thread/INFO]: [voicechat] Received secret request of Manu304 (20)
+[00:09:55] [Server thread/INFO]: [voicechat] Sent secret to Manu304
+[00:10:05] [Server thread/INFO]: Player Manu304 requested skin texture: 29379ff07389d569d5b9e05fda89def68b62e621
+[00:10:05] [Server thread/INFO]: Received complete skin texture from player: Manu304 (size: 2618 bytes)
+[00:10:05] [Server thread/INFO]: Player Manu304 updated appearance: skin=local_skin:46e558643b0e0429709b92ed883afbdd5e46d2d7, cape=known:home, model=classic
+[00:10:07] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player e67aaebe-1d83-3d38-ad83-6a72c4948f7e
+[00:10:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player e67aaebe-1d83-3d38-ad83-6a72c4948f7e
+[00:10:08] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Manu304 (e67aaebe-1d83-3d38-ad83-6a72c4948f7e) successfully connected to voice chat
+[00:10:29] [Server thread/WARN]: Mismatch! Max time in tile (59670) doesn't equals to received max time (14)
+[00:11:53] [Server thread/INFO]: Manu304 lost connection: Timed out
+[00:11:53] [Server thread/INFO]: Manu304 left the game
+[00:11:53] [Server thread/INFO]: Player quit: Manu304
+[00:11:53] [Server thread/INFO]: [voicechat] Disconnecting client Manu304
+[00:13:01] [Server thread/INFO]: Manu304 has installed AutoModpack.
+[00:13:01] [Server thread/INFO]: Sending Manu304 modpack host address: :-1
+[00:13:06] [Server thread/INFO]: Manu304 has installed whole modpack
+[00:13:06] [Server thread/INFO]: [Handshake] Sending channel query
+[00:13:06] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[00:13:06] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[00:13:06] [Server thread/INFO]: Manu304[/127.245.42.148:36759] logged in with entity id 8208 at (0.0, 100.0, 0.0)
+[00:13:06] [Server thread/INFO]: Sending server config values to client
+[00:13:06] [Server thread/INFO]: Manu304 joined the game
+[00:13:06] [Server thread/INFO]: Player joined: Manu304
+[00:13:06] [Server thread/INFO]: Loaded appearance for player: e67aaebe-1d83-3d38-ad83-6a72c4948f7e (skin=local_skin:46e558643b0e0429709b92ed883afbdd5e46d2d7, cape=known:home, model=classic)
+[00:13:06] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[00:13:08] [Server thread/INFO]: Received complete skin texture from player: Manu304 (size: 2618 bytes)
+[00:13:08] [Server thread/INFO]: Player Manu304 updated appearance: skin=local_skin:46e558643b0e0429709b92ed883afbdd5e46d2d7, cape=, model=classic
+[00:13:08] [Server thread/INFO]: Received complete skin texture from player: Manu304 (size: 2618 bytes)
+[00:13:08] [Server thread/INFO]: Player Manu304 updated appearance: skin=local_skin:46e558643b0e0429709b92ed883afbdd5e46d2d7, cape=known:home, model=classic
+[00:13:08] [Server thread/INFO]: [voicechat] Received secret request of Manu304 (20)
+[00:13:08] [Server thread/INFO]: [voicechat] Sent secret to Manu304
+[00:13:16] [Server thread/INFO]: Player Manu304 requested skin texture: 29379ff07389d569d5b9e05fda89def68b62e621
+[00:13:16] [Server thread/INFO]: Received complete skin texture from player: Manu304 (size: 2618 bytes)
+[00:13:16] [Server thread/INFO]: Player Manu304 updated appearance: skin=local_skin:46e558643b0e0429709b92ed883afbdd5e46d2d7, cape=known:home, model=classic
+[00:13:17] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player e67aaebe-1d83-3d38-ad83-6a72c4948f7e
+[00:13:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player e67aaebe-1d83-3d38-ad83-6a72c4948f7e
+[00:13:18] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Manu304 (e67aaebe-1d83-3d38-ad83-6a72c4948f7e) successfully connected to voice chat
+[00:13:38] [Server thread/INFO]: [Not Secure] <Manu304> tppp
+[00:13:52] [Server thread/INFO]: [ZaoNexx: Teleported Manu304 to ZaoNexx]
+[00:13:54] [Server thread/WARN]: Mismatch! Max time in tile (75690) doesn't equals to received max time (14)
+[00:14:32] [Server thread/WARN]: Mismatch! Max time in tile (14) doesn't equals to received max time (75690)
+[00:15:22] [Server thread/INFO]: Yippegod has installed AutoModpack.
+[00:15:22] [Server thread/INFO]: Sending Yippegod modpack host address: :-1
+[00:15:44] [Server thread/INFO]: com.mojang.authlib.GameProfile@7a61213e[id=<null>,name=Yippegod,properties={},legacy=false] (/127.96.214.66:50769) lost connection: Disconnected
+[00:15:57] [Server thread/INFO]: Yippegod has installed AutoModpack.
+[00:15:57] [Server thread/INFO]: Sending Yippegod modpack host address: :-1
+[00:16:06] [Server thread/INFO]: Yippegod has installed whole modpack
+[00:16:06] [Server thread/INFO]: [Handshake] Sending channel query
+[00:16:21] [Netty Epoll Server IO #2/INFO]: (This is for debugging only. You can ignore that. Logging limit 1/5) Exception from connection: 
+io.netty.channel.StacklessClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(Object, ChannelPromise)(Unknown Source) ~[netty-transport-4.1.82.Final.jar:?]
+[00:16:21] [Netty Epoll Server IO #2/INFO]: (This is for debugging only. You can ignore that. Logging limit 2/5) Exception from connection: 
+io.netty.channel.StacklessClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(Object, ChannelPromise)(Unknown Source) ~[netty-transport-4.1.82.Final.jar:?]
+[00:16:21] [Netty Epoll Server IO #2/INFO]: (This is for debugging only. You can ignore that. Logging limit 3/5) Exception from connection: 
+io.netty.channel.StacklessClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(Object, ChannelPromise)(Unknown Source) ~[netty-transport-4.1.82.Final.jar:?]
+[00:16:21] [Netty Epoll Server IO #2/INFO]: (This is for debugging only. You can ignore that. Logging limit 4/5) Exception from connection: 
+io.netty.channel.StacklessClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(Object, ChannelPromise)(Unknown Source) ~[netty-transport-4.1.82.Final.jar:?]
+[00:16:21] [Netty Epoll Server IO #2/INFO]: (This is for debugging only. You can ignore that. Logging limit 5/5) Exception from connection: 
+io.netty.channel.StacklessClosedChannelException: null
+	at io.netty.channel.AbstractChannel$AbstractUnsafe.write(Object, ChannelPromise)(Unknown Source) ~[netty-transport-4.1.82.Final.jar:?]
+[00:16:21] [Server thread/INFO]: Manu304 lost connection: Timed out
+[00:16:21] [Server thread/INFO]: Manu304 left the game
+[00:16:21] [Server thread/INFO]: Player quit: Manu304
+[00:16:21] [Server thread/INFO]: [voicechat] Disconnecting client Manu304
+[00:16:27] [Netty Epoll Server IO #3/INFO]: [Handshake] Receiving client channels
+[00:16:27] [Netty Epoll Server IO #3/INFO]: [Handshake] Handshake completed successfully
+[00:16:27] [Server thread/INFO]: Yippegod[/127.96.214.66:43275] logged in with entity id 8480 at (0.0, 100.0, 0.0)
+[00:16:27] [Server thread/INFO]: Sending server config values to client
+[00:16:27] [Server thread/INFO]: Yippegod joined the game
+[00:16:27] [Server thread/INFO]: Player joined: Yippegod
+[00:16:27] [Server thread/INFO]: Loaded appearance for player: a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316 (skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic)
+[00:16:28] [Server thread/INFO]: Player ZaoNexx requested skin texture: 44fef6098cd0305febd30bac0632b694d2b5c699
+[00:16:28] [Server thread/WARN]: Server seems overloading, jumping 2130ms or 42 ticks
+[00:16:36] [Netty Epoll Server IO #3/INFO]: Receiving client config
+[00:16:37] [Server thread/INFO]: Received complete skin texture from player: Yippegod (size: 1344 bytes)
+[00:16:38] [Server thread/INFO]: Player Yippegod updated appearance: skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic
+[00:16:38] [Server thread/INFO]: [voicechat] Received secret request of Yippegod (20)
+[00:16:38] [Server thread/INFO]: [voicechat] Sent secret to Yippegod
+[00:16:41] [Server thread/INFO]: [ZaoNexx: Teleported ZaoNexx to Yippegod]
+[00:16:41] [Server thread/INFO]: Received complete skin texture from player: ZaoNexx (size: 3681 bytes)
+[00:16:41] [Server thread/INFO]: Player ZaoNexx updated appearance: skin=local_skin:29379ff07389d569d5b9e05fda89def68b62e621, cape=known:minecon_2011, model=classic
+[00:16:41] [Server thread/INFO]: Received complete skin texture from player: ZaoNexx (size: 3681 bytes)
+[00:16:41] [Server thread/INFO]: Player ZaoNexx updated appearance: skin=local_skin:29379ff07389d569d5b9e05fda89def68b62e621, cape=known:minecon_2011, model=classic
+[00:16:44] [Server thread/INFO]: [ImmPtl] Ignoring player move packet class_3222['ZaoNexx'/452, l='ServerWorld minecraft:overworld world', x=273.50, y=64.50, z=1098.50] mini_scaled:void
+[00:16:44] [Server thread/INFO]: [ImmPtl] Ignoring player move packet class_3222['ZaoNexx'/452, l='ServerWorld minecraft:overworld world', x=273.50, y=64.50, z=1098.50] mini_scaled:void
+[00:16:50] [Server thread/INFO]: [ZaoNexx: Teleported ZaoNexx to Yippegod]
+[00:16:50] [Server thread/INFO]: Received complete skin texture from player: ZaoNexx (size: 3681 bytes)
+[00:16:50] [Server thread/INFO]: Player ZaoNexx updated appearance: skin=local_skin:29379ff07389d569d5b9e05fda89def68b62e621, cape=known:minecon_2011, model=classic
+[00:16:50] [Server thread/INFO]: Received complete skin texture from player: ZaoNexx (size: 3681 bytes)
+[00:16:50] [Server thread/INFO]: Player ZaoNexx updated appearance: skin=local_skin:29379ff07389d569d5b9e05fda89def68b62e621, cape=known:minecon_2011, model=classic
+[00:16:57] [Server thread/INFO]: Yippegod lost connection: Timed out
+[00:16:57] [Server thread/INFO]: Yippegod left the game
+[00:16:57] [Server thread/INFO]: Player quit: Yippegod
+[00:16:57] [Server thread/INFO]: [voicechat] Disconnecting client Yippegod
+[00:17:18] [Server thread/INFO]: [ImmPtl] Ignoring player move packet class_3222['ZaoNexx'/452, l='ServerWorld minecraft:overworld world', x=273.50, y=64.50, z=1098.50] mini_scaled:void
+[00:17:18] [Server thread/INFO]: [ImmPtl] Ignoring player move packet class_3222['ZaoNexx'/452, l='ServerWorld minecraft:overworld world', x=273.50, y=64.50, z=1098.50] mini_scaled:void
+[00:17:27] [Server thread/WARN]: handleDisconnection() called twice
+[00:17:47] [Server thread/INFO]: Yippegod has installed AutoModpack.
+[00:17:47] [Server thread/INFO]: Sending Yippegod modpack host address: :-1
+[00:17:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:17:53] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:17:54] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:17:54] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:17:54] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:17:54] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:17:54] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:17:55] [Server thread/INFO]: Yippegod has installed whole modpack
+[00:17:55] [Server thread/INFO]: [Handshake] Sending channel query
+[00:17:56] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[00:17:56] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[00:17:56] [Server thread/INFO]: Yippegod[/127.96.214.66:56563] logged in with entity id 9662 at (0.0, 100.0, 0.0)
+[00:17:56] [Server thread/INFO]: Sending server config values to client
+[00:17:56] [Server thread/INFO]: Yippegod joined the game
+[00:17:56] [Server thread/INFO]: Player joined: Yippegod
+[00:17:56] [Server thread/INFO]: Loaded appearance for player: a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316 (skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic)
+[00:17:56] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[00:17:57] [Server thread/INFO]: Received complete skin texture from player: Yippegod (size: 1344 bytes)
+[00:17:57] [Server thread/INFO]: Player Yippegod updated appearance: skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic
+[00:17:57] [Server thread/INFO]: [voicechat] Received secret request of Yippegod (20)
+[00:17:57] [Server thread/INFO]: [voicechat] Sent secret to Yippegod
+[00:17:57] [Server thread/WARN]: ZaoNexx moved too quickly! -0.8414637133453766,0.0,-10.274026775454786
+[00:17:57] [Server thread/WARN]: Server seems overloading, jumping 2125ms or 42 ticks
+[00:17:57] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:17:57] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:17:58] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:17:58] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:17:58] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:17:58] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:17:58] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:17:59] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:17:59] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:18:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:18:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:18:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:18:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:18:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:18:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:18:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:18:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:18:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:18:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:18:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:18:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:18:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:18:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:18:00] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:18:01] [Server thread/INFO]: [ZaoNexx: Teleported ZaoNexx to Yippegod]
+[00:18:01] [Server thread/INFO]: Received complete skin texture from player: ZaoNexx (size: 3681 bytes)
+[00:18:01] [Server thread/INFO]: Player ZaoNexx updated appearance: skin=local_skin:29379ff07389d569d5b9e05fda89def68b62e621, cape=known:minecon_2011, model=classic
+[00:18:01] [Server thread/INFO]: Received complete skin texture from player: ZaoNexx (size: 3681 bytes)
+[00:18:01] [Server thread/INFO]: Player ZaoNexx updated appearance: skin=local_skin:29379ff07389d569d5b9e05fda89def68b62e621, cape=known:minecon_2011, model=classic
+[00:18:04] [Server thread/INFO]: [ImmPtl] Ignoring player move packet class_3222['ZaoNexx'/452, l='ServerWorld minecraft:overworld world', x=273.50, y=64.50, z=1098.50] mini_scaled:void
+[00:18:04] [Server thread/INFO]: [ImmPtl] Ignoring player move packet class_3222['ZaoNexx'/452, l='ServerWorld minecraft:overworld world', x=273.50, y=64.50, z=1098.50] mini_scaled:void
+[00:18:08] [Server thread/INFO]: Player Yippegod requested skin texture: 29379ff07389d569d5b9e05fda89def68b62e621
+[00:18:08] [Server thread/INFO]: Received complete skin texture from player: Yippegod (size: 1344 bytes)
+[00:18:08] [Server thread/INFO]: Player Yippegod updated appearance: skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic
+[00:18:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316
+[00:18:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316
+[00:18:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Yippegod (a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316) successfully connected to voice chat
+[00:18:13] [Server thread/INFO]: [ZaoNexx: Set spawn point to 273, 64, 1098 [0.0] in minecraft:overworld for 2 players]
+[00:18:16] [Server thread/INFO]: [ZaoNexx: Killed Yippegod]
+[00:18:25] [Server thread/INFO]: [ImmPtl] Ignoring player move packet class_3222['Yippegod'/9662, l='ServerWorld minecraft:overworld world', x=273.50, y=64.50, z=1098.50] mini_scaled:void
+[00:18:25] [Server thread/INFO]: [ImmPtl] Ignoring player move packet class_3222['Yippegod'/9662, l='ServerWorld minecraft:overworld world', x=273.50, y=64.50, z=1098.50] mini_scaled:void
+[00:18:25] [Server thread/INFO]: [ImmPtl] Ignoring player move packet class_3222['Yippegod'/9662, l='ServerWorld minecraft:overworld world', x=273.50, y=64.50, z=1098.50] mini_scaled:void
+[00:18:25] [Server thread/INFO]: [ImmPtl] Ignoring player move packet class_3222['Yippegod'/9662, l='ServerWorld minecraft:overworld world', x=273.50, y=64.50, z=1098.50] mini_scaled:void
+[00:18:26] [Server thread/INFO]: [ImmPtl] Ignoring player move packet class_3222['Yippegod'/9662, l='ServerWorld minecraft:overworld world', x=273.50, y=64.50, z=1098.50] mini_scaled:void
+[00:18:26] [Server thread/INFO]: [ImmPtl] Ignoring player move packet class_3222['Yippegod'/9662, l='ServerWorld minecraft:overworld world', x=273.50, y=64.50, z=1098.50] mini_scaled:void
+[00:18:26] [Server thread/INFO]: [ImmPtl] Ignoring player move packet class_3222['Yippegod'/9662, l='ServerWorld minecraft:overworld world', x=273.50, y=64.50, z=1098.50] mini_scaled:void
+[00:18:26] [Server thread/INFO]: [ImmPtl] Ignoring player move packet class_3222['Yippegod'/9662, l='ServerWorld minecraft:overworld world', x=273.50, y=64.50, z=1098.50] mini_scaled:void
+[00:18:26] [Server thread/INFO]: [ImmPtl] Ignoring player move packet class_3222['Yippegod'/9662, l='ServerWorld minecraft:overworld world', x=273.50, y=64.50, z=1098.50] mini_scaled:void
+[00:18:26] [Server thread/INFO]: [ImmPtl] Ignoring player move packet class_3222['Yippegod'/9662, l='ServerWorld minecraft:overworld world', x=273.50, y=64.50, z=1098.50] mini_scaled:void
+[00:18:26] [Server thread/INFO]: [ImmPtl] Ignoring player move packet class_3222['Yippegod'/9662, l='ServerWorld minecraft:overworld world', x=273.50, y=64.50, z=1098.50] mini_scaled:void
+[00:18:26] [Server thread/INFO]: [ImmPtl] Ignoring player move packet class_3222['Yippegod'/9662, l='ServerWorld minecraft:overworld world', x=273.50, y=64.50, z=1098.50] mini_scaled:void
+[00:18:26] [Server thread/INFO]: [ImmPtl] Ignoring player move packet class_3222['Yippegod'/9662, l='ServerWorld minecraft:overworld world', x=273.50, y=64.50, z=1098.50] mini_scaled:void
+[00:18:26] [Server thread/INFO]: [ImmPtl] Ignoring player move packet class_3222['Yippegod'/9662, l='ServerWorld minecraft:overworld world', x=273.50, y=64.50, z=1098.50] mini_scaled:void
+[00:18:26] [Server thread/INFO]: The logging reached its limit. Similar log won't be displayed.
+[00:18:28] [Server thread/INFO]: Yippegod fell from a high place
+[00:18:41] [Server thread/INFO]: [ZaoNexx: Teleported ZaoNexx to Yippegod]
+[00:18:43] [Server thread/INFO]: [ZaoNexx: Teleported ZaoNexx to Yippegod]
+[00:18:44] [Server thread/INFO]: [ZaoNexx: Teleported ZaoNexx to Yippegod]
+[00:19:11] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[00:19:11] [Server thread/INFO]: Yippegod lost connection: Disconnected
+[00:19:11] [Server thread/INFO]: Yippegod left the game
+[00:19:11] [Server thread/INFO]: Player quit: Yippegod
+[00:19:11] [Server thread/INFO]: [voicechat] Disconnecting client Yippegod
+[00:19:42] [Server thread/INFO]: Yippegod has installed AutoModpack.
+[00:19:42] [Server thread/INFO]: Sending Yippegod modpack host address: :-1
+[00:19:45] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:19:45] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:19:45] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:19:45] [Server thread/WARN]: Ignoring unknown attribute 'forge.swimSpeed'
+[00:19:54] [Server thread/INFO]: Yippegod has installed whole modpack
+[00:19:54] [Server thread/INFO]: [Handshake] Sending channel query
+[00:19:55] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[00:19:55] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[00:19:55] [Server thread/INFO]: Yippegod[/127.96.214.66:45529] logged in with entity id 11998 at (266.803808666286, 65.0, 1092.644767091908)
+[00:19:55] [Server thread/INFO]: Sending server config values to client
+[00:19:55] [Server thread/INFO]: Yippegod joined the game
+[00:19:55] [Server thread/INFO]: Player joined: Yippegod
+[00:19:55] [Server thread/INFO]: Loaded appearance for player: a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316 (skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic)
+[00:19:56] [Server thread/WARN]: Server seems overloading, jumping 3011ms or 60 ticks
+[00:19:56] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[00:19:57] [Server thread/INFO]: Received complete skin texture from player: Yippegod (size: 1344 bytes)
+[00:19:57] [Server thread/INFO]: Player Yippegod updated appearance: skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic
+[00:19:57] [Server thread/INFO]: [voicechat] Received secret request of Yippegod (20)
+[00:19:57] [Server thread/INFO]: [voicechat] Sent secret to Yippegod
+[00:20:15] [Server thread/WARN]: Server seems overloading, jumping 2107ms or 42 ticks
+[00:20:35] [Server thread/WARN]: Server seems overloading, jumping 2003ms or 40 ticks
+[00:20:54] [Server thread/WARN]: Server seems overloading, jumping 2040ms or 40 ticks
+[00:20:57] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[00:20:57] [Server thread/INFO]: Yippegod lost connection: Timed out
+[00:20:57] [Server thread/INFO]: Yippegod left the game
+[00:20:57] [Server thread/INFO]: Player quit: Yippegod
+[00:20:57] [Server thread/INFO]: [voicechat] Disconnecting client Yippegod
+[00:22:26] [Server thread/INFO]: Yippegod has installed AutoModpack.
+[00:22:26] [Server thread/INFO]: Sending Yippegod modpack host address: :-1
+[00:22:36] [Server thread/INFO]: Yippegod has installed whole modpack
+[00:22:36] [Server thread/INFO]: [Handshake] Sending channel query
+[00:22:36] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[00:22:36] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[00:22:36] [Server thread/INFO]: Yippegod[/127.96.214.66:44523] logged in with entity id 15586 at (0.0, 100.0, 0.0)
+[00:22:36] [Server thread/INFO]: Sending server config values to client
+[00:22:36] [Server thread/INFO]: Yippegod joined the game
+[00:22:36] [Server thread/INFO]: Player joined: Yippegod
+[00:22:36] [Server thread/INFO]: Loaded appearance for player: a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316 (skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic)
+[00:22:37] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[00:22:37] [Server thread/INFO]: Received complete skin texture from player: Yippegod (size: 1344 bytes)
+[00:22:37] [Server thread/INFO]: Player Yippegod updated appearance: skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic
+[00:22:37] [Server thread/INFO]: [voicechat] Received secret request of Yippegod (20)
+[00:22:37] [Server thread/INFO]: [voicechat] Sent secret to Yippegod
+[00:22:38] [Server thread/WARN]: Server seems overloading, jumping 2063ms or 41 ticks
+[00:22:44] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316
+[00:22:44] [Server thread/INFO]: Player Yippegod requested skin texture: 29379ff07389d569d5b9e05fda89def68b62e621
+[00:22:44] [Server thread/INFO]: Received complete skin texture from player: Yippegod (size: 1344 bytes)
+[00:22:44] [Server thread/INFO]: Player Yippegod updated appearance: skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic
+[00:22:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316
+[00:22:45] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Yippegod (a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316) successfully connected to voice chat
+[00:23:00] [Server thread/INFO]: Yippegod lost connection: Disconnected
+[00:23:00] [Server thread/INFO]: Yippegod left the game
+[00:23:00] [Server thread/INFO]: Player quit: Yippegod
+[00:23:00] [Server thread/INFO]: [voicechat] Disconnecting client Yippegod
+[00:23:14] [Server thread/INFO]: Yippegod has installed AutoModpack.
+[00:23:14] [Server thread/INFO]: Sending Yippegod modpack host address: :-1
+[00:23:22] [Server thread/INFO]: Yippegod has installed whole modpack
+[00:23:22] [Server thread/INFO]: [Handshake] Sending channel query
+[00:23:25] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[00:23:25] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[00:23:25] [Server thread/INFO]: Yippegod[/127.96.214.66:55721] logged in with entity id 16087 at (0.0, 100.0, 0.0)
+[00:23:25] [Server thread/INFO]: Sending server config values to client
+[00:23:25] [Server thread/INFO]: Yippegod joined the game
+[00:23:25] [Server thread/INFO]: Player joined: Yippegod
+[00:23:25] [Server thread/INFO]: Loaded appearance for player: a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316 (skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic)
+[00:23:26] [Server thread/WARN]: Server seems overloading, jumping 2381ms or 47 ticks
+[00:23:29] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[00:23:29] [Server thread/INFO]: Received complete skin texture from player: Yippegod (size: 1344 bytes)
+[00:23:29] [Server thread/INFO]: Player Yippegod updated appearance: skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic
+[00:23:29] [Server thread/INFO]: [voicechat] Received secret request of Yippegod (20)
+[00:23:29] [Server thread/INFO]: [voicechat] Sent secret to Yippegod
+[00:23:36] [Server thread/WARN]: handleDisconnection() called twice
+[00:24:27] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[00:24:27] [Server thread/INFO]: Yippegod lost connection: Timed out
+[00:24:27] [Server thread/INFO]: Yippegod left the game
+[00:24:27] [Server thread/INFO]: Player quit: Yippegod
+[00:24:27] [Server thread/INFO]: [voicechat] Disconnecting client Yippegod
+[00:24:54] [Server thread/INFO]: Yippegod has installed AutoModpack.
+[00:24:54] [Server thread/INFO]: Sending Yippegod modpack host address: :-1
+[00:25:17] [Server thread/INFO]: Yippegod has installed whole modpack
+[00:25:17] [Server thread/INFO]: [Handshake] Sending channel query
+[00:25:17] [Netty Epoll Server IO #4/INFO]: [Handshake] Receiving client channels
+[00:25:17] [Netty Epoll Server IO #4/INFO]: [Handshake] Handshake completed successfully
+[00:25:17] [Server thread/INFO]: Yippegod[/127.96.214.66:38263] logged in with entity id 16433 at (0.0, 100.0, 0.0)
+[00:25:17] [Server thread/INFO]: Sending server config values to client
+[00:25:17] [Server thread/INFO]: Yippegod joined the game
+[00:25:17] [Server thread/INFO]: Player joined: Yippegod
+[00:25:17] [Server thread/INFO]: Loaded appearance for player: a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316 (skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic)
+[00:25:17] [Netty Epoll Server IO #4/INFO]: Receiving client config
+[00:25:18] [Server thread/INFO]: Received complete skin texture from player: Yippegod (size: 1344 bytes)
+[00:25:18] [Server thread/INFO]: Player Yippegod updated appearance: skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic
+[00:25:18] [Server thread/INFO]: [voicechat] Received secret request of Yippegod (20)
+[00:25:18] [Server thread/INFO]: [voicechat] Sent secret to Yippegod
+[00:25:18] [Server thread/WARN]: Server seems overloading, jumping 2003ms or 40 ticks
+[00:25:24] [Server thread/INFO]: Player Yippegod requested skin texture: 29379ff07389d569d5b9e05fda89def68b62e621
+[00:25:24] [Server thread/INFO]: Received complete skin texture from player: Yippegod (size: 1344 bytes)
+[00:25:24] [Server thread/INFO]: Player Yippegod updated appearance: skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic
+[00:25:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316
+[00:25:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316
+[00:25:25] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Yippegod (a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316) successfully connected to voice chat
+[00:25:47] [Server thread/INFO]: Yippegod lost connection: Timed out
+[00:25:47] [Server thread/INFO]: Yippegod left the game
+[00:25:47] [Server thread/INFO]: Player quit: Yippegod
+[00:25:47] [Server thread/INFO]: [voicechat] Disconnecting client Yippegod
+[00:26:17] [Server thread/WARN]: handleDisconnection() called twice
+[00:26:34] [Server thread/INFO]: Yippegod has installed AutoModpack.
+[00:26:34] [Server thread/INFO]: Sending Yippegod modpack host address: :-1
+[00:26:46] [Server thread/INFO]: Yippegod has installed whole modpack
+[00:26:46] [Server thread/INFO]: [Handshake] Sending channel query
+[00:26:49] [Netty Epoll Server IO #7/INFO]: [Handshake] Receiving client channels
+[00:26:49] [Netty Epoll Server IO #7/INFO]: [Handshake] Handshake completed successfully
+[00:26:49] [Server thread/INFO]: Yippegod[/127.96.214.66:36045] logged in with entity id 16777 at (0.0, 100.0, 0.0)
+[00:26:49] [Server thread/INFO]: Sending server config values to client
+[00:26:49] [Server thread/INFO]: Yippegod joined the game
+[00:26:49] [Server thread/INFO]: Player joined: Yippegod
+[00:26:49] [Server thread/INFO]: Loaded appearance for player: a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316 (skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic)
+[00:26:53] [Server thread/WARN]: Server seems overloading, jumping 2091ms or 41 ticks
+[00:27:02] [Server thread/INFO]: Received complete skin texture from player: Yippegod (size: 1344 bytes)
+[00:27:02] [Server thread/INFO]: Player Yippegod updated appearance: skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic
+[00:27:02] [Server thread/INFO]: [voicechat] Received secret request of Yippegod (20)
+[00:27:02] [Server thread/INFO]: [voicechat] Sent secret to Yippegod
+[00:27:02] [Netty Epoll Server IO #7/INFO]: Receiving client config
+[00:27:43] [Server thread/INFO]: Yippegod lost connection: Disconnected
+[00:27:43] [Server thread/INFO]: Yippegod left the game
+[00:27:43] [Server thread/INFO]: Player quit: Yippegod
+[00:27:43] [Server thread/INFO]: [voicechat] Disconnecting client Yippegod
+[00:27:49] [Server thread/WARN]: handleDisconnection() called twice
+[00:30:01] [Server thread/INFO]: Yippegod has installed AutoModpack.
+[00:30:01] [Server thread/INFO]: Sending Yippegod modpack host address: :-1
+[00:30:15] [Server thread/WARN]: Yippegod has not installed modpack. Certificate fingerprint: b8508df2ce16dfa47edd28c7ccc9da6ba4967efdec8080041d72957abb8a0e00
+[00:30:15] [Server thread/INFO]: com.mojang.authlib.GameProfile@4f06d7fa[id=<null>,name=Yippegod,properties={},legacy=false] (/127.96.214.66:50663) lost connection: [AutoModpack] Install/Update modpack to join
+[00:30:35] [Server thread/INFO]: Yippegod has installed AutoModpack.
+[00:30:35] [Server thread/INFO]: Sending Yippegod modpack host address: :-1
+[00:30:54] [Server thread/INFO]: Yippegod has installed whole modpack
+[00:30:54] [Server thread/INFO]: [Handshake] Sending channel query
+[00:30:55] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[00:30:55] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[00:30:55] [Server thread/INFO]: Yippegod[/127.96.214.66:51323] logged in with entity id 17191 at (0.0, 100.0, 0.0)
+[00:30:55] [Server thread/INFO]: Sending server config values to client
+[00:30:55] [Server thread/INFO]: Yippegod joined the game
+[00:30:55] [Server thread/INFO]: Player joined: Yippegod
+[00:30:55] [Server thread/INFO]: Loaded appearance for player: a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316 (skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic)
+[00:30:56] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[00:30:56] [Server thread/INFO]: Received complete skin texture from player: Yippegod (size: 1344 bytes)
+[00:30:56] [Server thread/INFO]: Player Yippegod updated appearance: skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic
+[00:30:56] [Server thread/INFO]: [voicechat] Received secret request of Yippegod (20)
+[00:30:56] [Server thread/INFO]: [voicechat] Sent secret to Yippegod
+[00:31:06] [Server thread/INFO]: Player Yippegod requested skin texture: 29379ff07389d569d5b9e05fda89def68b62e621
+[00:31:06] [Server thread/INFO]: Received complete skin texture from player: Yippegod (size: 1344 bytes)
+[00:31:06] [Server thread/INFO]: Player Yippegod updated appearance: skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic
+[00:31:21] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316
+[00:31:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316
+[00:31:22] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Yippegod (a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316) successfully connected to voice chat
+[00:31:25] [Server thread/INFO]: Yippegod lost connection: Timed out
+[00:31:25] [Server thread/INFO]: Yippegod left the game
+[00:31:25] [Server thread/INFO]: Player quit: Yippegod
+[00:31:25] [Server thread/INFO]: [voicechat] Disconnecting client Yippegod
+[00:31:55] [Server thread/WARN]: handleDisconnection() called twice
+[00:31:59] [Server thread/INFO]: Yippegod has installed AutoModpack.
+[00:31:59] [Server thread/INFO]: Sending Yippegod modpack host address: :-1
+[00:32:10] [Server thread/WARN]: Yippegod has not installed modpack. Certificate fingerprint: b8508df2ce16dfa47edd28c7ccc9da6ba4967efdec8080041d72957abb8a0e00
+[00:32:10] [Server thread/INFO]: com.mojang.authlib.GameProfile@4cfbafaa[id=<null>,name=Yippegod,properties={},legacy=false] (/127.96.214.66:46697) lost connection: [AutoModpack] Install/Update modpack to join
+[00:32:18] [Server thread/INFO]: Yippegod has installed AutoModpack.
+[00:32:18] [Server thread/INFO]: Sending Yippegod modpack host address: :-1
+[00:32:28] [Server thread/INFO]: Yippegod has installed whole modpack
+[00:32:28] [Server thread/INFO]: [Handshake] Sending channel query
+[00:32:31] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[00:32:31] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[00:32:31] [Server thread/INFO]: Yippegod[/127.96.214.66:47835] logged in with entity id 17421 at (0.0, 100.0, 0.0)
+[00:32:31] [Server thread/INFO]: Sending server config values to client
+[00:32:31] [Server thread/INFO]: Yippegod joined the game
+[00:32:31] [Server thread/INFO]: Player joined: Yippegod
+[00:32:31] [Server thread/INFO]: Loaded appearance for player: a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316 (skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic)
+[00:32:36] [Server thread/INFO]: Received complete skin texture from player: Yippegod (size: 1344 bytes)
+[00:32:36] [Server thread/INFO]: Player Yippegod updated appearance: skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic
+[00:32:36] [Server thread/INFO]: [voicechat] Received secret request of Yippegod (20)
+[00:32:36] [Server thread/INFO]: [voicechat] Sent secret to Yippegod
+[00:33:32] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[00:33:32] [Server thread/INFO]: Yippegod lost connection: Timed out
+[00:33:32] [Server thread/INFO]: Yippegod left the game
+[00:33:32] [Server thread/INFO]: Player quit: Yippegod
+[00:33:32] [Server thread/INFO]: [voicechat] Disconnecting client Yippegod
+[00:41:43] [Server thread/INFO]: Yippegod has installed AutoModpack.
+[00:41:43] [Server thread/INFO]: Sending Yippegod modpack host address: :-1
+[00:42:13] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[00:42:13] [Server thread/INFO]: com.mojang.authlib.GameProfile@6f885cd0[id=<null>,name=Yippegod,properties={},legacy=false] (/127.96.214.66:54287) lost connection: Timed out
+[00:42:58] [Server thread/INFO]: Manu304 has installed AutoModpack.
+[00:42:58] [Server thread/INFO]: Sending Manu304 modpack host address: :-1
+[00:43:01] [Server thread/INFO]: Manu304 has installed whole modpack
+[00:43:01] [Server thread/INFO]: [Handshake] Sending channel query
+[00:43:01] [Netty Epoll Server IO #6/INFO]: [Handshake] Receiving client channels
+[00:43:01] [Netty Epoll Server IO #6/INFO]: [Handshake] Handshake completed successfully
+[00:43:02] [Server thread/INFO]: Manu304[/127.245.42.148:34219] logged in with entity id 18282 at (-213.00801580598605, 65.0, 1477.8675531396987)
+[00:43:02] [Server thread/INFO]: Sending server config values to client
+[00:43:02] [Server thread/INFO]: Manu304 joined the game
+[00:43:02] [Server thread/INFO]: Player joined: Manu304
+[00:43:02] [Server thread/INFO]: Loaded appearance for player: e67aaebe-1d83-3d38-ad83-6a72c4948f7e (skin=local_skin:46e558643b0e0429709b92ed883afbdd5e46d2d7, cape=known:home, model=classic)
+[00:43:02] [Server thread/WARN]: Server seems overloading, jumping 2793ms or 55 ticks
+[00:43:03] [Netty Epoll Server IO #6/INFO]: Receiving client config
+[00:43:10] [Server thread/INFO]: Received complete skin texture from player: Manu304 (size: 2618 bytes)
+[00:43:10] [Server thread/INFO]: Player Manu304 updated appearance: skin=local_skin:46e558643b0e0429709b92ed883afbdd5e46d2d7, cape=, model=classic
+[00:43:10] [Server thread/INFO]: Received complete skin texture from player: Manu304 (size: 2618 bytes)
+[00:43:10] [Server thread/INFO]: Player Manu304 updated appearance: skin=local_skin:46e558643b0e0429709b92ed883afbdd5e46d2d7, cape=known:home, model=classic
+[00:43:10] [Server thread/INFO]: [voicechat] Received secret request of Manu304 (20)
+[00:43:10] [Server thread/INFO]: [voicechat] Sent secret to Manu304
+[00:43:29] [Server thread/INFO]: [ZaoNexx: Teleported Manu304 to ZaoNexx]
+[00:43:32] [Server thread/INFO]: Manu304 lost connection: Timed out
+[00:43:32] [Server thread/INFO]: Manu304 left the game
+[00:43:32] [Server thread/INFO]: Player quit: Manu304
+[00:43:32] [Server thread/INFO]: [voicechat] Disconnecting client Manu304
+[00:43:48] [Server thread/INFO]: Manu304 has installed AutoModpack.
+[00:43:48] [Server thread/INFO]: Sending Manu304 modpack host address: :-1
+[00:43:51] [Server thread/INFO]: Manu304 has installed whole modpack
+[00:43:51] [Server thread/INFO]: [Handshake] Sending channel query
+[00:43:51] [Netty Epoll Server IO #2/INFO]: [Handshake] Receiving client channels
+[00:43:51] [Netty Epoll Server IO #2/INFO]: [Handshake] Handshake completed successfully
+[00:43:51] [Server thread/INFO]: Manu304[/127.245.42.148:52653] logged in with entity id 18522 at (0.0, 100.0, 0.0)
+[00:43:51] [Server thread/INFO]: Sending server config values to client
+[00:43:51] [Server thread/INFO]: Manu304 joined the game
+[00:43:51] [Server thread/INFO]: Player joined: Manu304
+[00:43:51] [Server thread/INFO]: Loaded appearance for player: e67aaebe-1d83-3d38-ad83-6a72c4948f7e (skin=local_skin:46e558643b0e0429709b92ed883afbdd5e46d2d7, cape=known:home, model=classic)
+[00:43:51] [Netty Epoll Server IO #2/INFO]: Receiving client config
+[00:43:52] [Server thread/INFO]: Received complete skin texture from player: Manu304 (size: 2618 bytes)
+[00:43:52] [Server thread/INFO]: Player Manu304 updated appearance: skin=local_skin:46e558643b0e0429709b92ed883afbdd5e46d2d7, cape=, model=classic
+[00:43:52] [Server thread/INFO]: Received complete skin texture from player: Manu304 (size: 2618 bytes)
+[00:43:52] [Server thread/INFO]: Player Manu304 updated appearance: skin=local_skin:46e558643b0e0429709b92ed883afbdd5e46d2d7, cape=known:home, model=classic
+[00:43:52] [Server thread/INFO]: [voicechat] Received secret request of Manu304 (20)
+[00:43:52] [Server thread/INFO]: [voicechat] Sent secret to Manu304
+[00:43:53] [Server thread/INFO]: Server performance level: bad
+[00:44:02] [Server thread/WARN]: handleDisconnection() called twice
+[00:44:07] [Server thread/INFO]: Player Manu304 requested skin texture: 29379ff07389d569d5b9e05fda89def68b62e621
+[00:44:07] [Server thread/INFO]: Received complete skin texture from player: Manu304 (size: 2618 bytes)
+[00:44:07] [Server thread/INFO]: Player Manu304 updated appearance: skin=local_skin:46e558643b0e0429709b92ed883afbdd5e46d2d7, cape=known:home, model=classic
+[00:44:09] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player e67aaebe-1d83-3d38-ad83-6a72c4948f7e
+[00:44:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player e67aaebe-1d83-3d38-ad83-6a72c4948f7e
+[00:44:10] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Manu304 (e67aaebe-1d83-3d38-ad83-6a72c4948f7e) successfully connected to voice chat
+[00:44:13] [Server thread/INFO]: Server performance level: good
+[00:44:13] [Server thread/WARN]: Server seems overloading, jumping 2075ms or 41 ticks
+[00:44:15] [Server thread/INFO]: [ZaoNexx: Teleported Manu304 to ZaoNexx]
+[00:50:30] [Server thread/INFO]: Yippegod has installed AutoModpack.
+[00:50:30] [Server thread/INFO]: Sending Yippegod modpack host address: :-1
+[00:50:42] [Server thread/INFO]: Yippegod has installed whole modpack
+[00:50:42] [Server thread/INFO]: [Handshake] Sending channel query
+[00:50:42] [Netty Epoll Server IO #0/INFO]: [Handshake] Receiving client channels
+[00:50:42] [Netty Epoll Server IO #0/INFO]: [Handshake] Handshake completed successfully
+[00:50:43] [Server thread/INFO]: Yippegod[/127.96.214.66:39555] logged in with entity id 20840 at (0.0, 100.0, 0.0)
+[00:50:43] [Server thread/INFO]: Sending server config values to client
+[00:50:43] [Server thread/INFO]: Yippegod joined the game
+[00:50:43] [Server thread/INFO]: Player joined: Yippegod
+[00:50:43] [Server thread/INFO]: Loaded appearance for player: a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316 (skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic)
+[00:50:43] [Server thread/INFO]: Player Manu304 requested skin texture: 44fef6098cd0305febd30bac0632b694d2b5c699
+[00:50:44] [Netty Epoll Server IO #0/INFO]: Receiving client config
+[00:50:45] [Server thread/INFO]: Received complete skin texture from player: Yippegod (size: 1344 bytes)
+[00:50:45] [Server thread/INFO]: Player Yippegod updated appearance: skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic
+[00:50:46] [Server thread/INFO]: [voicechat] Received secret request of Yippegod (20)
+[00:50:46] [Server thread/INFO]: [voicechat] Sent secret to Yippegod
+[00:51:09] [Server thread/INFO]: Player Yippegod requested skin texture: 29379ff07389d569d5b9e05fda89def68b62e621
+[00:51:09] [Server thread/INFO]: Player Yippegod requested skin texture: 46e558643b0e0429709b92ed883afbdd5e46d2d7
+[00:51:09] [Server thread/INFO]: Received complete skin texture from player: Yippegod (size: 1344 bytes)
+[00:51:09] [Server thread/INFO]: Player Yippegod updated appearance: skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic
+[00:51:13] [Server thread/INFO]: Yippegod lost connection: Timed out
+[00:51:13] [Server thread/INFO]: Yippegod left the game
+[00:51:13] [Server thread/INFO]: Player quit: Yippegod
+[00:51:13] [Server thread/INFO]: [voicechat] Disconnecting client Yippegod
+[00:51:43] [Server thread/WARN]: handleDisconnection() called twice
+[00:52:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player e67aaebe-1d83-3d38-ad83-6a72c4948f7e timed out
+[00:52:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Reconnecting player Manu304
+[00:52:58] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Sent secret to Manu304
+[00:53:04] [Server thread/INFO]: {
+ Air: 300s,
+ FallDistance: 0.0f,
+ Fire: -1s,
+ Invulnerable: false,
+ Motion: [0.0d, 0.0d, 0.0d],
+ OnGround: false,
+ PortalCooldown: 0,
+ Pos: [-223.0d, 68.0d, 1477.0d],
+ Rotation: [0.0f, 0.0f],
+ UUID: [I; 340839545, 621363649, -1928599189, -1874369009],
+ adjustPositionAfterTeleport: true,
+ axisHX: 0.0d,
+ axisHY: 0.0d,
+ axisHZ: -1.0d,
+ axisWX: 1.0d,
+ axisWY: 0.0d,
+ axisWZ: 0.0d,
+ bindCluster: true,
+ cardinal_components: {
+  "gravity_changer:gravity_data": {
+   baseGravityDirection: "down",
+   baseGravityStrength: 1.0d,
+   currentGravityDirection: "down",
+   currentGravityStrength: 1.0d
+  }
+ },
+ defaultAnimation: {
+  curve: "sine",
+  disableUntil: 0L,
+  durationTicks: 10,
+  inverseScale: false
+ },
+ destinationX: 156.0d,
+ destinationY: 130.0d,
+ destinationZ: 811.0d,
+ dimensionTo: "minecraft:overworld",
+ doRenderPlayer: true,
+ flippedPortalId: [I; -271870391, -1665185799, -1804366179, -723977116],
+ fuseView: false,
+ hasCrossPortalCollision: true,
+ height: 2.0d,
+ interactable: true,
+ isVisible: true,
+ parallelPortalId: [I; 317183366, 1830177342, -1220503498, -877963203],
+ renderingMergable: false,
+ reversePortalId: [I; -1108095402, 1652180325, -1504769304, -1531647401],
+ rotationA: 1.0d,
+ rotationB: 0.0d,
+ rotationC: 0.0d,
+ rotationD: 0.0d,
+ scale: 1.0d,
+ teleportChangesGravity: true,
+ teleportChangesScale: true,
+ teleportable: true,
+ width: 2.0d
+}
+[00:53:04] [Server thread/INFO]: Portal{22476,up,(minecraft:overworld -223.0 68.0 1477.0)->(minecraft:overworld 156.0 130.0 811.0)}
+[00:53:04] [Server thread/INFO]: Orientation: Rotates 90.000 degrees along (-1.000 -0.000 0.000) Quaternion:(-0.707 -0.000 0.000 0.707)
+[00:53:04] [Server thread/INFO]: Rotating Transformation: Rotates 0.000 degrees along (0.000 0.000 0.000) Quaternion:(0.000 0.000 0.000 1.000)
+[00:53:07] [Server thread/INFO]: Manu304 lost connection: Timed out
+[00:53:07] [Server thread/INFO]: Manu304 left the game
+[00:53:07] [Server thread/INFO]: Player quit: Manu304
+[00:53:07] [Server thread/INFO]: [voicechat] Disconnecting client Manu304
+[00:53:37] [Server thread/INFO]: Yippegod has installed AutoModpack.
+[00:53:37] [Server thread/INFO]: Sending Yippegod modpack host address: :-1
+[00:53:46] [Server thread/INFO]: Yippegod has installed whole modpack
+[00:53:46] [Server thread/INFO]: [Handshake] Sending channel query
+[00:53:47] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[00:53:47] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[00:53:47] [Server thread/INFO]: Yippegod[/127.96.214.66:45657] logged in with entity id 22963 at (0.0, 100.0, 0.0)
+[00:53:47] [Server thread/INFO]: Sending server config values to client
+[00:53:47] [Server thread/INFO]: Yippegod joined the game
+[00:53:47] [Server thread/INFO]: Player joined: Yippegod
+[00:53:47] [Server thread/INFO]: Loaded appearance for player: a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316 (skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic)
+[00:53:48] [Server thread/WARN]: Server seems overloading, jumping 2693ms or 53 ticks
+[00:53:49] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[00:53:49] [Server thread/INFO]: Received complete skin texture from player: Yippegod (size: 1344 bytes)
+[00:53:49] [Server thread/INFO]: Player Yippegod updated appearance: skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic
+[00:53:49] [Server thread/INFO]: [voicechat] Received secret request of Yippegod (20)
+[00:53:49] [Server thread/INFO]: [voicechat] Sent secret to Yippegod
+[00:54:14] [Server thread/INFO]: Player Yippegod requested skin texture: 29379ff07389d569d5b9e05fda89def68b62e621
+[00:54:14] [Server thread/INFO]: Received complete skin texture from player: Yippegod (size: 1344 bytes)
+[00:54:14] [Server thread/INFO]: Player Yippegod updated appearance: skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic
+[00:54:48] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[00:54:48] [Server thread/INFO]: Yippegod lost connection: Timed out
+[00:54:48] [Server thread/INFO]: Yippegod left the game
+[00:54:48] [Server thread/INFO]: Player quit: Yippegod
+[00:54:48] [Server thread/INFO]: [voicechat] Disconnecting client Yippegod
+[00:55:07] [Server thread/INFO]: Yippegod has installed AutoModpack.
+[00:55:07] [Server thread/INFO]: Sending Yippegod modpack host address: :-1
+[00:55:18] [Server thread/INFO]: Yippegod has installed whole modpack
+[00:55:18] [Server thread/INFO]: [Handshake] Sending channel query
+[00:55:19] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[00:55:19] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[00:55:19] [Server thread/INFO]: Yippegod[/127.96.214.66:55471] logged in with entity id 23272 at (0.0, 100.0, 0.0)
+[00:55:19] [Server thread/INFO]: Sending server config values to client
+[00:55:19] [Server thread/INFO]: Yippegod joined the game
+[00:55:19] [Server thread/INFO]: Player joined: Yippegod
+[00:55:19] [Server thread/INFO]: Loaded appearance for player: a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316 (skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic)
+[00:55:20] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[00:55:20] [Server thread/INFO]: Received complete skin texture from player: Yippegod (size: 1344 bytes)
+[00:55:20] [Server thread/INFO]: Player Yippegod updated appearance: skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic
+[00:55:21] [Server thread/INFO]: [voicechat] Received secret request of Yippegod (20)
+[00:55:21] [Server thread/INFO]: [voicechat] Sent secret to Yippegod
+[00:55:22] [Server thread/WARN]: Server seems overloading, jumping 2048ms or 40 ticks
+[00:55:27] [Server thread/INFO]: [ZaoNexx: Kicked Yippegod: Kicked by an operator]
+[00:55:59] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.timeout.ReadTimeoutException: null
+[00:55:59] [Server thread/INFO]: Yippegod lost connection: Timed out
+[00:55:59] [Server thread/INFO]: Yippegod left the game
+[00:55:59] [Server thread/INFO]: Player quit: Yippegod
+[00:55:59] [Server thread/INFO]: [voicechat] Disconnecting client Yippegod
+[00:56:19] [Server thread/WARN]: handleDisconnection() called twice
+[00:56:54] [Server thread/INFO]: Yippegod has installed AutoModpack.
+[00:56:54] [Server thread/INFO]: Sending Yippegod modpack host address: :-1
+[00:57:02] [Server thread/INFO]: Yippegod has installed whole modpack
+[00:57:02] [Server thread/INFO]: [Handshake] Sending channel query
+[00:57:03] [Netty Epoll Server IO #5/INFO]: [Handshake] Receiving client channels
+[00:57:03] [Netty Epoll Server IO #5/INFO]: [Handshake] Handshake completed successfully
+[00:57:03] [Server thread/INFO]: Yippegod[/127.96.214.66:46543] logged in with entity id 23605 at (0.0, 100.0, 0.0)
+[00:57:03] [Server thread/INFO]: Sending server config values to client
+[00:57:03] [Server thread/INFO]: Yippegod joined the game
+[00:57:03] [Server thread/INFO]: Player joined: Yippegod
+[00:57:03] [Server thread/INFO]: Loaded appearance for player: a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316 (skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic)
+[00:57:04] [Netty Epoll Server IO #5/INFO]: Receiving client config
+[00:57:04] [Server thread/INFO]: Received complete skin texture from player: Yippegod (size: 1344 bytes)
+[00:57:04] [Server thread/INFO]: Player Yippegod updated appearance: skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic
+[00:57:04] [Server thread/INFO]: [voicechat] Received secret request of Yippegod (20)
+[00:57:04] [Server thread/INFO]: [voicechat] Sent secret to Yippegod
+[00:57:23] [Server thread/INFO]: Player Yippegod requested skin texture: 29379ff07389d569d5b9e05fda89def68b62e621
+[00:57:23] [Server thread/INFO]: Received complete skin texture from player: Yippegod (size: 1344 bytes)
+[00:57:23] [Server thread/INFO]: Player Yippegod updated appearance: skin=local_skin:44fef6098cd0305febd30bac0632b694d2b5c699, cape=, model=classic
+[00:57:23] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully authenticated player a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316
+[00:57:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Successfully validated connection of player a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316
+[00:57:24] [VoiceChatPacketProcessingThread/INFO]: [voicechat] Player Yippegod (a0d6b7c3-4a6b-3cb2-8eab-d658c79ad316) successfully connected to voice chat
+[00:57:33] [Server thread/INFO]: Yippegod lost connection: Timed out
+[00:57:33] [Server thread/INFO]: Yippegod left the game
+[00:57:33] [Server thread/INFO]: Player quit: Yippegod
+[00:57:33] [Server thread/INFO]: [voicechat] Disconnecting client Yippegod
+[00:57:51] [Server thread/INFO]: {
+ Air: 300s,
+ FallDistance: 0.0f,
+ Fire: -1s,
+ Invulnerable: false,
+ Motion: [0.0d, 0.0d, 0.0d],
+ OnGround: false,
+ PortalCooldown: 0,
+ Pos: [-221.0d, 67.0d, 1475.5d],
+ Rotation: [0.0f, 0.0f],
+ UUID: [I; 707203740, 1966427507, -1589237792, -573377647],
+ adjustPositionAfterTeleport: true,
+ axisHX: 0.0d,
+ axisHY: 1.0d,
+ axisHZ: 0.0d,
+ axisWX: 0.0d,
+ axisWY: 0.0d,
+ axisWZ: -1.0d,
+ bindCluster: true,
+ cardinal_components: {
+  "gravity_changer:gravity_data": {
+   baseGravityDirection: "down",
+   baseGravityStrength: 1.0d,
+   currentGravityDirection: "down",
+   currentGravityStrength: 1.0d
+  }
+ },
+ defaultAnimation: {
+  curve: "sine",
+  disableUntil: 0L,
+  durationTicks: 10,
+  inverseScale: false
+ },
+ destinationX: 157.5d,
+ destinationY: 130.5d,
+ destinationZ: 815.0d,
+ dimensionTo: "minecraft:overworld",
+ doRenderPlayer: true,
+ flippedPortalId: [I; -2042554338, 159729533, -1733186290, 1178731807],
+ fuseView: false,
+ hasCrossPortalCollision: true,
+ height: 2.0d,
+ interactable: true,
+ isVisible: true,
+ parallelPortalId: [I; 1506106379, -2143468433, -1710321507, -1022807168],
+ renderingMergable: false,
+ reversePortalId: [I; -312448858, 944128396, -1615356769, 736559523],
+ rotationA: -0.7071067811865476d,
+ rotationB: 0.7071067811865476d,
+ rotationC: 0.0d,
+ rotationD: 0.0d,
+ scale: 1.0d,
+ teleportChangesGravity: true,
+ teleportChangesScale: true,
+ teleportable: true,
+ width: 1.0d
+}
+[00:57:51] [Server thread/INFO]: Portal{23857,east,(minecraft:overworld -221.0 67.0 1475.5)->(minecraft:overworld 157.5 130.5 815.0)}
+[00:57:51] [Server thread/INFO]: Orientation: Rotates 90.000 degrees along (0.000 1.000 0.000) Quaternion:(0.000 0.707 0.000 0.707)
+[00:57:51] [Server thread/INFO]: Rotating Transformation: Rotates 270.000 degrees along (1.000 0.000 0.000) Quaternion:(0.707 0.000 0.000 -0.707)
+[00:57:56] [Server thread/INFO]: Adjusting player position (0.0, 0.0, -1.4887026033682105) class_3222['ZaoNexx'/452, l='ServerWorld minecraft:overworld world', x=-220.96, y=67.62, z=1477.19]
+[00:58:03] [Server thread/WARN]: handleDisconnection() called twice
+[00:58:07] [Server thread/INFO]: Adjusting player position (0.0, 0.0, -1.4986011652317757) class_3222['ZaoNexx'/452, l='ServerWorld minecraft:overworld world', x=-221.01, y=67.62, z=1477.20]
+[00:58:10] [Server thread/INFO]: Adjusting player position (0.0, 0.0, -1.5729796584507767) class_3222['ZaoNexx'/452, l='ServerWorld minecraft:overworld world', x=-221.12, y=67.62, z=1477.27]
+[00:58:13] [Server thread/INFO]: Adjusting player position (0.0, 0.0, -1.3792233683436734) class_3222['ZaoNexx'/452, l='ServerWorld minecraft:overworld world', x=-221.08, y=67.62, z=1477.08]
+[00:58:16] [Server thread/ERROR]: Reject cross-portal action class_3222['ZaoNexx'/452, l='ServerWorld minecraft:overworld world', x=-221.64, y=66.00, z=1475.96] ServerWorld minecraft:overworld world class_2338{x=159, y=129, z=816}

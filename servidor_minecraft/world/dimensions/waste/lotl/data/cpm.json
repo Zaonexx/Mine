@@ -1,0 +1,10 @@
+{
+  "__COMMENT1": "To apply this configuration to all newly generated worlds",
+  "__COMMENT2": "please place this configuration file into your config directory",
+  "__COMMENT3": "with the following name: cpm-server-default.json",
+  "player_scaling": {
+    "863cae13-749f-3176-a7e0-44ae52f4dd6f": {},
+    "e67aaebe-1d83-3d38-ad83-6a72c4948f7e": {}
+  },
+  "skins": {}
+}

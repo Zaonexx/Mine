@@ -1,0 +1,432 @@
+{
+  "modpackName": "",
+  "automodpackVersion": "4.0.1",
+  "loader": "fabric",
+  "loaderVersion": "0.17.3",
+  "mcVersion": "1.20.1",
+  "list": [
+    {
+      "file": "/mods/Necronomicon-Fabric-1.6.0+1.20.1.jar",
+      "size": "37533",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "86e4ba3727be9ef8816844aa15f45db099ecb858",
+      "murmur": "372877596"
+    },
+    {
+      "file": "/mods/bitsandchisels-2.7.3.jar",
+      "size": "303304",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "67da7240e5948cd898725b95933466fd3776ad33",
+      "murmur": "2332577675"
+    },
+    {
+      "file": "/mods/LockAndBlock-0.9.0.jar",
+      "size": "405450",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "d28837e875f21b4a0514941a4f8f04b87069c516",
+      "murmur": "2819528278"
+    },
+    {
+      "file": "/mods/CreativeCore_FABRIC_v2.12.34_mc1.20.1.jar",
+      "size": "1212248",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "d6fd7ceb95052431a01c139c9ed242aa40895fe7",
+      "murmur": "207076718"
+    },
+    {
+      "file": "/mods/TextAnimator-1.20.1-Fabric-2.5.3.jar",
+      "size": "83087",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "3ca60839f36f0dc2a57658f17629b70317e9a406",
+      "murmur": "3732622565"
+    },
+    {
+      "file": "/mods/hole_filler_mod-1.2.4.3_mc-1.20.1_fabric.jar",
+      "size": "180546",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "ae549ddcbec2c33af1827243cb0ba53320028843",
+      "murmur": "388829054"
+    },
+    {
+      "file": "/mods/refurbished_furniture-fabric-1.20.1-1.0.20.jar",
+      "size": "6670371",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "b16d2dbca7e831051ed15d5e510d310f11ce31e1",
+      "murmur": "2096795293"
+    },
+    {
+      "file": "/mods/Pehkui-3.8.3+1.14.4-1.21.jar",
+      "size": "555041",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "3ce548910f0aa2cef79dc333982493ccf8d73a3e",
+      "murmur": "2865028280"
+    },
+    {
+      "file": "/mods/waterframes-FABRIC-mc1.20.1-v2.1.22.jar",
+      "size": "261974",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "e8e5a1c8042fac7f0630d41cc0f47e89dc53cea5",
+      "murmur": "2404013931"
+    },
+    {
+      "file": "/mods/lavender-0.1.9+1.20.jar",
+      "size": "523368",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "5803e3bc8ff760967475f0839bd4c66888f514a8",
+      "murmur": "3977998799"
+    },
+    {
+      "file": "/mods/bedrockify-1.9.1+mc1.20.jar",
+      "size": "2642540",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "32d2e646d698d67961c37278078d6d5f12de6093",
+      "murmur": "1290286258"
+    },
+    {
+      "file": "/mods/mini_scaled-3.0.0-mc1.20.1-fabric.jar",
+      "size": "1090056",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "fbd378fa08cd898046a24befdfecafc727fbc8d3",
+      "murmur": "1467886940"
+    },
+    {
+      "file": "/mods/copycats-3.0.2+mc.1.20.1-forge.jar",
+      "size": "1988341",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "b520234ee3194ada89bbfa0336e3abee11d711e7",
+      "murmur": "1327704561"
+    },
+    {
+      "file": "/mods/architectury-9.2.14-fabric.jar",
+      "size": "585207",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "4fa65e32dbf63a871a30fe8ec6fbff9a4b8d007d",
+      "murmur": "376046230"
+    },
+    {
+      "file": "/mods/moonlight-1.20-2.16.15-fabric.jar",
+      "size": "1309703",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "bfd9c4cc99e96b696cf779c74b6010666875b99d",
+      "murmur": "391761468"
+    },
+    {
+      "file": "/mods/TACZ-Refabricated-1.20.1-0.1.1-forge1.1.6-hotfix.jar",
+      "size": "48125983",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "1df579b4d15d55f7356924071d52a1cf06e8fd61",
+      "murmur": "2590911349"
+    },
+    {
+      "file": "/mods/automobility-0.4.2+1.20.1-fabric.jar",
+      "size": "1108056",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "c820b82890d0192ccf1e8bc05d1ff081bc5954b7",
+      "murmur": "1241064207"
+    },
+    {
+      "file": "/mods/ftb-essentials-fabric-2001.2.3.jar",
+      "size": "155533",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "cea593ae304a6741c6b63026e0433a2750ff2dd7",
+      "murmur": "437468465"
+    },
+    {
+      "file": "/mods/holographic-renders-1.1.0-1.20.1-fabric.jar",
+      "size": "556519",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "13f0804184d700dad1285f0393e93217e5c42a9e",
+      "murmur": "3000106872"
+    },
+    {
+      "file": "/mods/voicechat-fabric-1.20.1-2.6.6.jar",
+      "size": "5249802",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "42e40ddfbac64a9fa32f9dcc653fb34ac74954f0",
+      "murmur": "1580110033"
+    },
+    {
+      "file": "/mods/immersive-portals-3.3.9-mc1.20.1-fabric.jar",
+      "size": "2937436",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "7de1994b5cc9e45a235aaa6b97041b1785005c80",
+      "murmur": "2027214819"
+    },
+    {
+      "file": "/mods/gravity-changer-1.1.2+mc1.20.1.jar",
+      "size": "420985",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "a54d63fa622c3ab9b37d1a97406f60a1bab6ef22",
+      "murmur": "2108996543"
+    },
+    {
+      "file": "/mods/player-animation-lib-fabric-1.0.2-rc1+1.20.jar",
+      "size": "181008",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "9182c38bcf614d0ed7091b15f7e099a7f2fb3617",
+      "murmur": "750341031"
+    },
+    {
+      "file": "/mods/bettercombat-fabric-1.8.6+1.20.1.jar",
+      "size": "902833",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "92355cccfe5f1ddff1f03e6079bc7a764e63a6f7",
+      "murmur": "3324594525"
+    },
+    {
+      "file": "/mods/ferritecore-6.0.1-fabric.jar",
+      "size": "125197",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "8fa3b84fc5860dbc30fdf8cced02af68dffcf3fa",
+      "murmur": "2896907526"
+    },
+    {
+      "file": "/mods/supplementaries-1.20-3.1.41-fabric.jar",
+      "size": "13473717",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "fca7cf63862af10901bc73006eb8d95e815c188b",
+      "murmur": "2947559658"
+    },
+    {
+      "file": "/mods/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
+      "size": "1294234",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "dc5ac6c6c4d1e48e8e520b9a41b41e704e82cf55",
+      "murmur": "4220070944"
+    },
+    {
+      "file": "/mods/framework-fabric-1.20.1-0.7.15.jar",
+      "size": "1417968",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "01965e598708e78c5c31aab66de8b8b6e9eafc1e",
+      "murmur": "3527147029"
+    },
+    {
+      "file": "/mods/fabric-api-0.92.6+1.20.1.jar",
+      "size": "2107873",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "3ec0a88b64f252257df6287e9a1d47ed96331e5d",
+      "murmur": "2800306859"
+    },
+    {
+      "file": "/mods/decocraft-3.0.4-1.20.1-fabric.jar",
+      "size": "93656020",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "f203708043cb54dbae7f02e8580318d602f44e40",
+      "murmur": "2854787259"
+    },
+    {
+      "file": "/mods/FpsReducer2-forge-1.20.1-2.5.1.jar",
+      "size": "125660",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "4920a2e1d17090007179a568181624847fba0993",
+      "murmur": "4111825473"
+    },
+    {
+      "file": "/mods/ftb-library-fabric-2001.2.10.jar",
+      "size": "781194",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "bccf36ae9068d7c923402a312b1542744191fdb5",
+      "murmur": "1122420498"
+    },
+    {
+      "file": "/mods/ForgeConfigAPIPort-v8.0.2-1.20.1-Fabric.jar",
+      "size": "397239",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "106c03ff115c30bce8a3e0d7557ad74b7ee00530",
+      "murmur": "1209295627"
+    },
+    {
+      "file": "/mods/spirit-walker-0.1.5+1.20.jar",
+      "size": "205272",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "8f69a40e558e645d4353c1dd2c2e3f7a7cda8897",
+      "murmur": "2915054866"
+    },
+    {
+      "file": "/mods/lithium-fabric-mc1.20.1-0.11.3.jar",
+      "size": "706600",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "7dc706d892b4c7cff0f7648e6b6256a64c3abec2",
+      "murmur": "2860007105"
+    },
+    {
+      "file": "/mods/etched-3.0.1.5-fabricated.jar",
+      "size": "3068783",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "50d276b5609bf4a71841f42621313253abf77e65",
+      "murmur": "1267022539"
+    },
+    {
+      "file": "/mods/roads-n-vehicles-0.0.3 - 1.20.1.jar",
+      "size": "700132",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "570fe9e2acb7862927d405b13abb3a913f6bcce6",
+      "murmur": "1674077455"
+    },
+    {
+      "file": "/mods/GeckoLibIrisCompat-Fabric-1.0.0.jar",
+      "size": "6202",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "cb8d7212d88eea2848cc1a5175c3bea4d3b8a30f",
+      "murmur": "3335149323"
+    },
+    {
+      "file": "/mods/worldedit-mod-7.2.15.jar",
+      "size": "5825402",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "9c52765ca56f917ef8cbafc20e9a4f45c346508f",
+      "murmur": "1066971240"
+    },
+    {
+      "file": "/mods/bc_particle-0.0.2-1.20.1.jar",
+      "size": "383704",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "ec76c5a10d6bd3831e2edb5cd2897f4137aeab75",
+      "murmur": "1145923574"
+    },
+    {
+      "file": "/mods/Prominent-Create-0.5.1-d+mc1.20.1.jar",
+      "size": "23805634",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "d8cd176fe744fb2e434f940b2fc6fe0b316f7a8d",
+      "murmur": "2256598750"
+    },
+    {
+      "file": "/mods/animated-mojang-logo-1.2.1-1.20.1.jar",
+      "size": "2790477",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "15809c1304d7c99d9b67ace2cc3f228afe0fd425",
+      "murmur": "2680311173"
+    },
+    {
+      "file": "/mods/Quick Skin - Fabric - 1.20.1-2.5.5.jar",
+      "size": "3602159",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "937a8721894e7522596e74819f66b990c62e8295",
+      "murmur": "2050168112"
+    },
+    {
+      "file": "/mods/owo-lib-0.11.2+1.20.jar",
+      "size": "905421",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "be88938ca5df78271e64bc9f85c3575754f33e2a",
+      "murmur": "2971442500"
+    },
+    {
+      "file": "/mods/ftb-teams-fabric-2001.3.1.jar",
+      "size": "244872",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "515a933d22c60d0f9c249a6eef02402afc2695ac",
+      "murmur": "2513560744"
+    },
+    {
+      "file": "/mods/ftb-chunks-fabric-2001.3.6.jar",
+      "size": "970189",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "5bb9152187a1d0a90425399e6fb68f2229260129",
+      "murmur": "511690826"
+    },
+    {
+      "file": "/mods/amendments-1.20-2.2.3-fabric.jar",
+      "size": "1259799",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "0774f6927b12c8fad4bc211c6c5343d4f291a4e0",
+      "murmur": "1147729005"
+    }
+  ]
+}
